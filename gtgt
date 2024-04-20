@@ -1,0 +1,2 @@
+page = urllib.request.urlopen('https://wseiz.pl/')
+soup = bs(page)
